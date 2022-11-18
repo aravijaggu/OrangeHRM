@@ -1,15 +1,2 @@
-# Framework
-selenium
-pytest
-
-# Parallel Test
-pytest-xdist
-
-# Report
-pytest-html
-
-# Data Driven Test
-openpyxl
-
-# Driver Manager
-webdriver-manager
+selenium==3.141.0
+urllib3==1.26.7
